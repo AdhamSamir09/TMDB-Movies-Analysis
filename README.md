@@ -1,4 +1,4 @@
-# Investigating the TMDb Movies Dataset
+# Investigating The TMDb Movies Dataset
 
 ## Project Overview  
 This project is part of the **Level 3 Data Science & AI** course in the **Digital Egypt Cubs Initiative (DECI)** by the **Ministry of Communication and Telecommunications**. In this assignment, I analyzed the TMDb Movies dataset, explored its characteristics, and extracted insights using Python.
