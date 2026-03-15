@@ -4,9 +4,6 @@
 ## 📊 Project Overview  
 This project is part of the **Level 3 Data Science & AI** course in the **Digital Egypt Cubs Initiative (DECI)** by the **Ministry of Communication and Telecommunications**. In this assignment, I analyzed the TMDb Movies dataset, explored its characteristics, and extracted insights using Python.
 
-## 📁 Dataset Information  
-The dataset used is **TMDb Movie Data**, which has been cleaned from the original **TMDb 5000 Movie Dataset** available on Kaggle. It contains information about movies such as titles, budgets, revenues, genres, release dates, and user ratings.
-
 ## 🧰 Tools and Libraries  
 - **Python**  
 - **NumPy**  
